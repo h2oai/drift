@@ -36,7 +36,7 @@
     "eslint-plugin-jsx-a11y": "^1.5.5",
     "eslint-plugin-react": "^5.2.2",
     "package-preamble": "0.0",
-    "rollup": "^0.33.2",
+    "rollup": "^0.68.2",
     "rollup-plugin-babel": "^2.6.1",
     "rollup-plugin-commonjs": "^5.0.5",
     "rollup-plugin-json": "^2.0.1",
@@ -44,7 +44,7 @@
     "rollup-plugin-strip": "^1.1.1"
   },
   "dependencies": {
-    "rollup": "^0.33.2"
+    "rollup": "^0.68.2"
   },
   "license": "MIT",
   "bugs": {
